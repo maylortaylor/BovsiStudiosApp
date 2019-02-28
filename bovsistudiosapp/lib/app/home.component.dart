@@ -4,7 +4,7 @@ import 'package:flutter_webview_plugin/flutter_webview_plugin.dart';
 
 class HomeComponent extends StatefulWidget {
   Widget child = new WebviewScaffold(
-    url: "https://maylortaylor.github.io/",
+    url: "https://www.bovsistudios.com",
     // appBar: new AppBar(
     //   title: const Text('Maylor Taylor'),
     // ),
