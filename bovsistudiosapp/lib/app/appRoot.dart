@@ -12,6 +12,7 @@ class AppRootWidgetState extends State<AppRootWidget> {
   Widget build(BuildContext context) {
     return new MaterialApp(
       title: 'Bovsi Studios',
+      debugShowCheckedModeBanner: false,
       theme: new ThemeData(
         primarySwatch: Colors.deepPurple,
       ),
